@@ -1,12 +1,11 @@
-fastapi
-uvicorn
 pydantic
-httpx
 pdfplumber
 python-docx
 pandas
 langchain
 langchain-community
 langchain-text-splitters
+langgraph
 chromadb
+sentence-transformers
 pytest
