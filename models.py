@@ -1,3 +1,5 @@
+# Pydantic model — Type of template for restricting data types
+
 from pydantic import BaseModel
 
 class DocumentRecord(BaseModel):

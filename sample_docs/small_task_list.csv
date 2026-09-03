@@ -1,0 +1,9 @@
+task_id,description,status,owner,priority
+T-101,Build PDF parser for ingestion module,Done,Arjun,High
+T-102,Build DOCX parser for ingestion module,Done,Meera,Medium
+T-103,Implement chunking logic for RAG pipeline,In Progress,Priya,High
+T-104,Set up Chroma vector store,In Progress,Arjun,High
+T-105,Integrate OCR for scanned PDFs,Blocked,Arjun,High
+T-106,Client API access request,Blocked,Priya,Medium
+T-107,Write unit tests for ingestion module,To Do,Meera,Medium
+T-108,Benchmark embedding model performance,To Do,Priya,Low
